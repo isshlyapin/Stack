@@ -19,7 +19,7 @@
 ## Установка:
 1. Склонируйте репозиторий:
    ```sh
-   git clone https://github.com/Rustic-soul/Stack.git
+   git clone https://github.com/isshlyapin/Stack.git
    ```
 3. Перейдите в директорию проекта:
    ```sh
